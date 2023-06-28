@@ -63,7 +63,3 @@ Contributions to this project are welcome. If you find any issues or want to add
    ```
 
 5. Open a pull request in this repository, explaining your changes.
-
----
-
-You can customize this README file to include specific details about your currency converter GUI project, such as additional features, implementation details, or any other relevant information.
