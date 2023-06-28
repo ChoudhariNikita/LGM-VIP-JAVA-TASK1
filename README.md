@@ -9,9 +9,9 @@ This is a simple currency converter application with a graphical user interface 
 - Convert between different currencies using real-time exchange rates.
 - Supports multiple currencies, including USD, EUR, GBP, JPY, etc.
 - User-friendly interface with input fields and buttons for easy currency conversion.
-- Fetches exchange rates from an external API for accurate conversion.
 
-## Prerequisites
+
+# Prerequisites
 
 - Java Development Kit (JDK) 8 or later.
 - Internet connection to fetch real-time exchange rates.
